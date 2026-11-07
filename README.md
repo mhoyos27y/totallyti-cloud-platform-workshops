@@ -6,9 +6,10 @@
 
 ```mermaid
 flowchart LR
-    A[1. Ansible] --> B[2. Kubernetes]
-    B --> C[3. Helm / Kustomize]
-    C --> D[4. GitHub Actions]
-    D --> E[5. Argo CD]
-    E --> F[6. Karpenter]
-    F --> G[7. Istio]
+    A[0. Terraform] --> B[1. Ansible]
+    B --> C[2. Kubernetes]
+    C --> D[3. Helm / Kustomize]
+    D --> E[4. GitHub Actions]
+    E --> F[5. Argo CD]
+    F --> G[6. Karpenter]
+    G --> H[7. Istio]
