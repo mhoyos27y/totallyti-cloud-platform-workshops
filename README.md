@@ -1,5 +1,6 @@
 # DevOps & Platform Engineering Workshops
-Índice central y rutas de aprendizaje prácticas de Terraform, Kubernetes, CI/CD, GitOps, Service Mesh, entre otros
+Repositorio central y catálogo de rutas de aprendizaje prácticas. Cada laboratorio se encuentra desacoplado en un repositorio individual con su propio código ejecutable, contexto, validaciones y capturas paso a paso.
+
 ---
 
 ## 🗺️ Mapa de la Ruta de Estudio
@@ -13,6 +14,9 @@ flowchart LR
     E --> F[5. Argo CD]
     F --> G[6. Karpenter]
     G --> H[7. Istio]
+```
+
+---
 
 ## 🧱 0. Infraestructura como Código (IaC) con Terraform
 
