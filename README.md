@@ -13,3 +13,12 @@ flowchart LR
     E --> F[5. Argo CD]
     F --> G[6. Karpenter]
     G --> H[7. Istio]
+
+## 🧱 0. Infraestructura como Código (IaC) con Terraform
+
+| Laboratorio | Descripción | Nivel | Enlace al Taller |
+| :--- | :--- | :---: | :---: |
+| **Lab 01** | Fundamentos de HCL, variables, outputs y ciclo `init` / `plan` / `apply` / `destroy` | Básico | [**Ir al Taller ↗**](../terraform-lab01) |
+| **Lab 02** | Estado Remoto (S3 Backend) y State Locking con DynamoDB | Intermedio | *(Próximamente)* |
+| **Lab 03** | Creación y estructuración de Módulos Reutilizables | Intermedio | *(Próximamente)* |
+| **Lab 04** | Aprovisionamiento de VPC y Clúster EKS para Kubernetes | Avanzado | *(Próximamente)* |
