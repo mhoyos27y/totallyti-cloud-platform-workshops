@@ -22,7 +22,7 @@ flowchart LR
 
 | Laboratorio | Descripción | Nivel | Enlace al Taller |
 | :--- | :--- | :---: | :---: |
-| **Lab 01** | Lab 01: Despliegue Declarativo Local — De terraform init a terraform destroy | Básico | [**Ir al Taller ↗**](https://github.com/mhoyos27y/terraform-lab01) |
-| **Lab 02** | Estado Remoto (S3 Backend) y State Locking con DynamoDB | Intermedio | *(Próximamente)* |
+| **Lab 01** | Despliegue Declarativo Local — De terraform init a terraform destroy | Básico | [**Ir al Taller ↗**](https://github.com/mhoyos27y/terraform-lab01) |
+| **Lab 02** | Crear buckets S3 con Terraform | Básico | [**Ir al Taller ↗**](https://github.com/mhoyos27y/terraform-lab02) |
 | **Lab 03** | Creación y estructuración de Módulos Reutilizables | Intermedio | *(Próximamente)* |
 | **Lab 04** | Aprovisionamiento de VPC y Clúster EKS para Kubernetes | Avanzado | *(Próximamente)* |
